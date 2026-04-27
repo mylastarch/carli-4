@@ -12,14 +12,6 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
 #
 ##################################################################################################################
-if [ -d "work" ]; then
-  sudo rm -rf -- "work"
-fi
-
-if [ -d "out" ]; then
-  sudo rm -rf -- "out"
-fi
-
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"

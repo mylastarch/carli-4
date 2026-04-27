@@ -126,3 +126,10 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+
+# MY LAST ARCH
+plasma-meta
+kde-applications-meta
+packagekit-qt6
+sddm
+
